@@ -1,11 +1,8 @@
 <h1 align="center"> 👨🏽‍💻 Nick Freitas 👨🏽‍💻 </h1>
 
 
-
  <p align="center">
   <span>Hi! I'm Nick Freitas, a software engineer working on some personal web applications. Check out my links below.</span>
-
-  
 </p>
 
 
