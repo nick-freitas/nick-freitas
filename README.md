@@ -16,7 +16,3 @@
 ### Links
 [Personal Site](http://nfreitas.com/)
 
-[Blog](https://nick-freitas.github.io/)
-
-[Twitch](https://www.twitch.tv/codingtimewithnick) *(Currently taking a break from streaming)*
-
